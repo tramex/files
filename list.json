@@ -1,8 +1,8 @@
 [
   {
-    "name":"",
+    "name":"TP1",
     "list": [
-        "https://github.com/tramex/files/tree/main"
+        "https://raw.githubusercontent.com/tramex/tramex/main/tramex-tools/tests/enb.log"
       ]
   }
 ]
