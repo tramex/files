@@ -1,8 +1,8 @@
 [
   {
     "name":"",
-    "list": {
-        "one": "https://github.com/tramex/files/tree/main"
-      }
+    "list": [
+        "https://github.com/tramex/files/tree/main"
+      ]
   }
 ]
