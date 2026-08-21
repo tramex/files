@@ -4,5 +4,11 @@
     "list": [
         "https://raw.githubusercontent.com/tramex/tramex/main/tramex-tools/tests/enb.log"
       ]
+  },
+  {
+    "name":"TP2",
+    "list": [
+        "https://raw.githubusercontent.com/tramex/tramex/main/tramex-tools/tests/gnb-test.log"
+      ]
   }
 ]
